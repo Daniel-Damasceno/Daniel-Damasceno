@@ -1,6 +1,6 @@
 ## Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 🤓
 
-Welcome to my GitHub profile! My name is Daniel and I'm a full-stack web development student in Manaus, Amazonas. I love to code and my goal is to create awesome websites and apps that solve real world problems and look great on all devices, I'm a programming enthusiast and passionate about technology. Here you will find projects and works developed by me, covering several areas.
+Welcome to my GitHub profile! My name is Daniel and I'm a full-stack web development student in Manaus, Amazonas, Brazil. I love to code and my goal is to create awesome websites and apps that solve real world problems and look great on all devices, I'm a programming enthusiast and passionate about technology. Here you will find projects and works developed by me, covering several areas.
 
 I am motivated by the desire to constantly learn and improve my skills. I believe that collaboration and knowledge sharing are key to growth in the field of technology. Therefore, I am always looking for new challenges and opportunities to contribute to the community.
 
