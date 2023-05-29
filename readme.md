@@ -1,12 +1,12 @@
 ## Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 🤓
 
-Welcome to my GitHub profile! My name is Daniel and I'm a full-stack web development student in Manaus, Amazonas, Brazil. I love to code and my goal is to create awesome websites and apps that solve real world problems and look great on all devices, I'm a programming enthusiast and passionate about technology. Here you will find projects and works developed by me, covering several areas.
+🙋‍♂️Welcome to my GitHub profile! My name is Daniel and I'm a full-stack web development student in Manaus, Amazonas, Brazil. I love to code and my goal is to create awesome websites and apps that solve real world problems and look great on all devices, I'm a programming enthusiast and passionate about technology. Here you will find projects and works developed by me, covering several areas.
 
-I am motivated by the desire to constantly learn and improve my skills. I believe that collaboration and knowledge sharing are key to growth in the field of technology. Therefore, I am always looking for new challenges and opportunities to contribute to the community.
+👨‍💻I am motivated by the desire to constantly learn and improve my skills. I believe that collaboration and knowledge sharing are key to growth in the field of technology. Therefore, I am always looking for new challenges and opportunities to contribute to the community.
 
-On my profile, you'll find a variety of repositories, including personal projects, academic work, and team collaborations. Feel free to explore, clone and contribute to any of them. Also feel free to contact me if you have any questions, suggestions or if you want to discuss possible collaborations.
+🗃On my profile, you'll find a variety of repositories, including personal projects, academic work, and team collaborations. Feel free to explore, clone and contribute to any of them. Also feel free to contact me if you have any questions, suggestions or if you want to discuss possible collaborations.
 
-Thank you for visiting! Hope you find something interesting in my repositories. Let's build an amazing digital future together!
+🤝Thank you for visiting! Hope you find something interesting in my repositories. Let's build an amazing digital future together!
 
 Happy coding! 💻✨
 
