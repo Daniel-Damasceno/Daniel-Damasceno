@@ -19,7 +19,9 @@ You can find me here too 👇
  </div>
  <br>
  
-<div style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/2GU" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">através de GIFER</a></p>
+<a href="#">
+<img src="https://media1.tenor.com/images/a7bd6b94430c1e66148d580209e377c5/tenor.gif?itemid=5043108" title="hello" width="335" height="243" align="right" alt="Hello, there!">
+</a>
 
 ### Here are some of the things I've learned and enjoy using.
 
