@@ -19,7 +19,7 @@ You can find me here too 👇
  </div>
  <br>
  
-<div class="tenor-gif-embed" data-postid="6108221" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/mad-typing-cat-keyboard-smash-gif-6108221">Mad Typing GIF</a>from <a href="https://tenor.com/search/mad-gifs">Mad GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<a href="https://tenor.com/view/mad-typing-cat-keyboard-smash-gif-6108221">Mad Typing GIF</a>
 
 ### Here are some of the things I've learned and enjoy using.
 
