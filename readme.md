@@ -19,7 +19,7 @@ You can find me here too 👇
  </div>
  <br>
 
-###Here are some of the things I've learned and enjoy using.
+### Here are some of the things I've learned and enjoy using.
 
 In the front-end:
 
