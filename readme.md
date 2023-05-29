@@ -20,7 +20,7 @@ You can find me here too 👇
  <br>
  
 <a href="#">
-<img src="https://media.tenor.com/OKLkZ1Um5HIAAAAC/mad-typing.gif" title="hello" width="290" height="243" align="right" alt="Hello, there!">
+<img src="https://media.tenor.com/OKLkZ1Um5HIAAAAC/mad-typing.gif" title="hello" width="290" height="243" align="right" alt="angryCatCode">
 </a>
 
 ### Here are some of the things I've learned and enjoy using.
