@@ -18,6 +18,10 @@ You can find me here too 👇
 </a>
  </div>
  <br>
+ 
+ <a href="#">
+<img src="https://i.gifer.com/2GU.gif" title="hello" width="335" height="243" align="right" alt="catCode, there!">
+</a>
 
 ### Here are some of the things I've learned and enjoy using.
 
