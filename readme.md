@@ -19,7 +19,9 @@ You can find me here too 👇
  </div>
  <br>
  
-<a href="https://tenor.com/view/mad-typing-cat-keyboard-smash-gif-6108221">Mad Typing GIF</a>
+<a href="#">
+<img src="https://media.tenor.com/OKLkZ1Um5HIAAAAC/mad-typing.gif" title="hello" width="335" height="243" align="right" alt="Hello, there!">
+</a>
 
 ### Here are some of the things I've learned and enjoy using.
 
