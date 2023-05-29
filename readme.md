@@ -16,7 +16,7 @@ You can find me here too 👇
   <a href="https://www.linkedin.com/in/daniel-damasceno-0b8aa226b/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
 </a>
-  <a href="" target="_blank">
+  <a href="https://wa.me/5592994209172" target="_blank">
  <img align="center" src="https://img.shields.io/badge/Whatsapp-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
 </a>
  </div>
