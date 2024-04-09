@@ -34,7 +34,14 @@ In the front-end:
 ![CSS3](https://img.shields.io/badge/-CSS3-232323?style=flat&labelColor=1572B6&logo=css3&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-232323?style=flat&labelColor=000000&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-232323?style=flat&labelColor=000000&logo=typescript&logoColor=3178C6)
+<!-- ![Sass](https://img.shields.io/badge/-Sass-232323?style=flat&labelColor=CC6699&logo=sass&logoColor=ffffff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-232323?style=flat&labelColor=7952B3&logo=bootstrap&logoColor=ffffff)
+![React](https://img.shields.io/badge/-React-232323?style=flat&labelColor=3178C6&logo=react&logoColor=000000) -->
+
 
 In the back-end:
 
 In progress!
+<!-- ![Node](https://img.shields.io/badge/-Node-232323?style=flat&labelColor=000000&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/-Express-232323?style=flat&labelColor=000000&logo=express&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-232323?style=flat&labelColor=47A248&logo=mongodb&logoColor=ffffff) -->
