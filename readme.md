@@ -36,7 +36,7 @@ In the front-end:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-232323?style=flat&labelColor=000000&logo=typescript&logoColor=3178C6)
 ![Sass](https://img.shields.io/badge/-Sass-232323?style=flat&labelColor=CC6699&logo=sass&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-232323?style=flat&labelColor=7952B3&logo=bootstrap&logoColor=ffffff)
-<!-- ![React](https://img.shields.io/badge/-React-232323?style=flat&labelColor=3178C6&logo=react&logoColor=000000) -->
+![React](https://img.shields.io/badge/-React-232323?style=flat&labelColor=3178C6&logo=react&logoColor=000000)
 
 
 In the back-end:
